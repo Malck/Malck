@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ##  Welcome to my github <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
 <br />
 
-I'm Malcolm a Front End Developer. I Spend most of time coding projects to code Harder Better Faster Stronger.
+I'm Malcolm a Front End Developer. I spend most of time coding projects to code Harder Better Faster Stronger.
 - :computer: I’m studying at @Openclassrooms
 - 🌱 I’m currently learning Redux
 - ⚡ Fun fact : If I'm not on my computer coding or playing games then it means I went outside.
@@ -48,10 +48,4 @@ I'm Malcolm a Front End Developer. I Spend most of time coding projects to code 
 <img src="https://img.shields.io/badge/-Malckira%236723-%234B0082?style=plastic-square&logo=discord&logoColor=white" height="22">
 </a>
 
-
 <br />
-
-
-
-
-
