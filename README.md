@@ -44,7 +44,7 @@ I'm Malcolm a Front End Developer. I spend most of time coding projects to code 
 <a href="mailto:CoutteelCode@gmail.com">
 <img src="https://img.shields.io/badge/-CoutteelCode@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&width=35&height=35" height="22"/>
 </a>
-<a href="https://discord.gg/UwuhtTzH3J">
+<a href="https://discord.com/">
 <img src="https://img.shields.io/badge/-Malckira%236723-%234B0082?style=plastic-square&logo=discord&logoColor=white" height="22">
 </a>
 
