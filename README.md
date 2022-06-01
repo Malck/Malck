@@ -50,5 +50,7 @@ I'm Malcolm a Front End Developer. I spend most of time coding projects to code 
 </a>
 
 <br />
+<br />
+
 <img src="https://raw.githubusercontent.com/Malck/Malck/4c1fc8d54e71c948c690b6cd3a2da263e8723082/waveup.svg">
 
