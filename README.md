@@ -2,8 +2,9 @@
 Malck/Malck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://raw.githubusercontent.com/Malck/Malck/a5fdecff12c229e6a070117f4af3dedf8bdf44a6/wave.svg" >
 
-##  Welcome to my github <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="26px" alt="hi">
+##  Welcome to my github 👋
 <br />
 
 I'm Malcolm a Front End Developer. I spend most of time coding projects to code Harder Better Faster Stronger.
