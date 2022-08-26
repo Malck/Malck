@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 I'm Malcolm a Front End Developer. I spend most of time coding projects to code Harder Better Faster Stronger.
-- :computer: I’m studying at @Openclassrooms
+- :computer: I just graduated as a front-end developer and I’m now looking for a job 
 - 🌱 I’m currently learning Redux
-- ⚡ Fun fact : If I'm not on my computer coding or playing games then it means I went outside.
+- ⚡ If I'm not on my computer coding or playing games then it means I went outside.
 
 
 <br />
